@@ -19,7 +19,7 @@
 </div>
 
 Soy Desarrollador Full Stack de Colombia.
-- :telescope: Actualmente estoy buscando trabajo, no dudes en contactarme
+- :telescope: Actualmente estoy buscando trabajo, no dudes en contactarme.
 - 🌱 Actualmente aprendiendo Python, Django y Django REST Framework.
 
 - :mailbox:Cómo contactarme: [![Linkedin Badge](https://img.shields.io/badge/-Sebastian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebas-henao/)
@@ -56,8 +56,8 @@ Soy Desarrollador Full Stack de Colombia.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" title="djangorest" alt="djangorest" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp; -->
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" title="djangorest" alt="djangorest" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
 
