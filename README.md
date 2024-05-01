@@ -7,13 +7,12 @@
   </div>
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/sebas-henao/" target="_blank">
+    <a href="https://www.linkedin.com/in/sebas-henao/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    </a>
-  <a href="mailto:cs.henao7730@gmail.com" target="_blank" target="_blank">
-    <img  alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
+   <a href="mailto:cs.henao7730@gmail.com">
+     <img  alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+   </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=SebastianHenaoLedezma&color=blue" alt=""/>
 </div>
