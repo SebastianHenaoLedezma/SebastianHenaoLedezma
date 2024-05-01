@@ -7,11 +7,11 @@
   </div>
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/sebas-henao/">
+    <a href="https://www.linkedin.com/in/sebas-henao/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     </a>
-  <a href="mailto:cs.henao7730@gmail.com" target="_blank">
+  <a href="mailto:cs.henao7730@gmail.com" target="_blank" target="_blank">
     <img  alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   </div>
@@ -21,8 +21,7 @@
 Soy Desarrollador Full Stack de Colombia.
 - :telescope: Actualmente estoy buscando trabajo, no dudes en contactarme.
 - 🌱 Actualmente aprendiendo Python, Django y Django REST Framework.
-
-- :mailbox:Cómo contactarme: [![Linkedin Badge](https://img.shields.io/badge/-Sebastian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebas-henao/)
+- :mailbox:Cómo contactarme: <a href="https://www.linkedin.com/in/sebas-henao/" target="_blank">![Linkedin Badge](https://img.shields.io/badge/-Sebastian-blue?style=flat&logo=Linkedin&logoColor=white)</a>
 
 
 ---
